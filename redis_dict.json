@@ -1,0 +1,30 @@
+{
+    "insert_redis": {
+        "iterations": 10,
+        "total_execution_time": 181.37599,
+        "mean_time": 20.2752,
+        "variance_time": 2.58048
+    },
+    "select_redis": {
+        "iterations": 100,
+        "total_execution_time": 1441.42199,
+        "mean_time": 14.41422,
+        "variance_time": 8.99444,
+        "iterations_2": 100,
+        "total_execution_time_2": 1457.45299,
+        "mean_time_2": 14.57453,
+        "variance_time_2": 2.48977
+    },
+    "delete_redis": {
+        "iterations": 100,
+        "total_execution_time": 1426.48599,
+        "mean_time": 14.26486,
+        "variance_time": 6.02514
+    },
+    "update_redis": {
+        "iterations": 100,
+        "total_execution_time": 1344.02599,
+        "mean_time": 13.44026,
+        "variance_time": 0.69427
+    }
+}

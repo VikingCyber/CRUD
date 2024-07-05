@@ -1,0 +1,30 @@
+{
+    "insert": {
+        "iterations": 10,
+        "total_execution_time": 6.123,
+        "mean_time": 0.6123,
+        "variance_time": 0.00813
+    },
+    "select": {
+        "iterations": 100,
+        "total_execution_time": 8.297,
+        "mean_time": 0.08297,
+        "variance_time": 0.00106,
+        "iterations_2": 100,
+        "total_execution_time_2": 7.125,
+        "mean_time_2": 0.07125,
+        "variance_time_2": 0.00032
+    },
+    "delete": {
+        "iterations": 100,
+        "total_execution_time": 6.106,
+        "mean_time": 0.06106,
+        "variance_time": 0.00011
+    },
+    "update": {
+        "iterations": 100,
+        "total_execution_time": 6.336,
+        "mean_time": 0.06336,
+        "variance_time": 0.00015
+    }
+}
